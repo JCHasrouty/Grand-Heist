@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GrandHeist",
+			"Path": "C:\\Users\\JC\\Documents\\Github\\GrandHeist\\GrandHeist\\Source\\GrandHeist.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GrandHeistEditor",
+			"Path": "C:\\Users\\JC\\Documents\\Github\\GrandHeist\\GrandHeist\\Source\\GrandHeistEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

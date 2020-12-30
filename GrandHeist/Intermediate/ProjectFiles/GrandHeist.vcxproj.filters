@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GrandHeist.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4140CB18-5469-4FCB-B16A-B15E5DBD49BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GrandHeist.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GrandHeistEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9AB45A15-A28D-4BCC-B5F9-4AF0D62136EC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GrandHeist">
+      <UniqueIdentifier>{EB66F09D-F3EB-496A-A720-D70527222D24}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GrandHeist\GrandHeist.Build.cs">
+      <Filter>Source\GrandHeist</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GrandHeist\GrandHeist.cpp">
+      <Filter>Source\GrandHeist</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrandHeist\GrandHeist.h">
+      <Filter>Source\GrandHeist</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GrandHeist\GrandHeistCharacter.cpp">
+      <Filter>Source\GrandHeist</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrandHeist\GrandHeistCharacter.h">
+      <Filter>Source\GrandHeist</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GrandHeist\GrandHeistGameMode.cpp">
+      <Filter>Source\GrandHeist</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrandHeist\GrandHeistGameMode.h">
+      <Filter>Source\GrandHeist</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

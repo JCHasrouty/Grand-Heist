@@ -1,0 +1,2 @@
+C:\Users\JC\Documents\Github\GrandHeist\GrandHeist\Intermediate\Build\Win64\UE4Editor\Development\GrandHeist\Definitions.GrandHeist.h
+C:\Users\JC\Documents\Github\GrandHeist\GrandHeist\Source\GrandHeist\GrandHeist.h
